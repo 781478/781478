@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @781478
 - 👀 I’m interested in many things..
-- 🌱 I’m currently learning how to use GIT --> newbie
 - 📫 How to reach me ... probably You don't ;)
 
 <!---
